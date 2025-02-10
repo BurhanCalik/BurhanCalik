@@ -1,4 +1,3 @@
-<img src="https://cs13.pikabu.ru/post_img/2024/03/12/6/og_og_1710234688294481006.jpg" alt="AiReadme" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Burhan.</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with experience in .NET Core and React. Lately, I've been diving deep into Machine Learning as I transition my career towards AI development. I love solving complex problems, learning new technologies, and pushing my limits every day. My motivation is high, my curiosity is endless, and I'm always up for a challenge. 🚀</h3>
