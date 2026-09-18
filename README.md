@@ -12,7 +12,7 @@
 <h3 align="center">Software Engineer | Backend & Full-Stack Developer 🚀</h3>
 
 <p align="center">
-  <em>Final-year Software Engineering student passionate about building scalable backend architectures and cross-platform mobile applications.</em>
+  <em>Software Engineering graduate passionate about building scalable backend architectures and cross-platform mobile applications.</em>
 </p>
 
 ---
